@@ -1,0 +1,50 @@
+div {
+    position: center;
+    border: 1px;
+    box-shadow: 100px;
+    border: solid 1px #ccd3e1;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+.leftScore {
+    background-color: green;
+
+}
+
+img {
+    width: 100%;
+}
+
+hr {
+    color-scheme: #ccd3e1;
+}
+
+.leftScore {
+    background-color: 'green';
+}
+
+button {
+    width: 32.6%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+#playerone {
+    color: white;
+    background-color: rgb(87, 187, 150);
+    border-color: rgb(87, 187, 150);
+}
+
+#playertwo {
+    color: white;
+    background-color: rgb(60, 132, 199);
+    border-color: rgb(60, 132, 199);
+}
+
+#resetter {
+    color: white;
+    background-color: #bd3663;
+    border-color: #bd3663;
+}
