@@ -1,2 +1,2 @@
 # PingPongScoreKeeper
-project to practice web dev lessons
+Some more javascript event listener practice.
